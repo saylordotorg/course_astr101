@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ASTR101 - Introduction to Astronomy"
+course: ASTR101
+course_fulltitle: "Introduction to Astronomy"
+course_description: "An introductory look at our understanding of the universe and how this understanding has changed from Ancient Greece through today."
+---
 **Unit 1: The Greeks** <span id="1"></span> 
 *In this unit, you will be introduced to the worldview established by
 the ancient Greeks.  The Greeks are credited with being the first to

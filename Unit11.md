@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ASTR101 - Introduction to Astronomy"
+course: ASTR101
+course_fulltitle: "Introduction to Astronomy"
+course_description: "An introductory look at our understanding of the universe and how this understanding has changed from Ancient Greece through today."
+---
 **Unit 11: Stellar Evolution** <span id="11"></span> 
 *In this unit, you will be introduced to the way in which stars change
 over time.  You will learn about the history of our sun and about its

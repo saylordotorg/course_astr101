@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ASTR101 - Introduction to Astronomy"
+course: ASTR101
+course_fulltitle: "Introduction to Astronomy"
+course_description: "An introductory look at our understanding of the universe and how this understanding has changed from Ancient Greece through today."
+---
 **Unit 8: The Early Universe** <span id="8"></span> 
 *In this unit, you will be introduced to the events occurring in the
 first few hundred thousand years of the existence of the universe.  You

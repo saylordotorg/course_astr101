@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ASTR101 - Introduction to Astronomy"
+course: ASTR101
+course_fulltitle: "Introduction to Astronomy"
+course_description: "An introductory look at our understanding of the universe and how this understanding has changed from Ancient Greece through today."
+---
 **Unit 9: Modern Cosmology** <span id="9"></span> 
 *In this unit, you will be introduced to the very latest information on
 the nature of the universe.  This information was mostly obtained by a

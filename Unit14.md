@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ASTR101 - Introduction to Astronomy"
+course: ASTR101
+course_fulltitle: "Introduction to Astronomy"
+course_description: "An introductory look at our understanding of the universe and how this understanding has changed from Ancient Greece through today."
+---
 **Unit 14: Extraterrestrial Life** <span id="14"></span> 
 *In this chapter, you will be introduced to our current thoughts on the
 existence of life beyond the confines of earth.  Drawing on our
