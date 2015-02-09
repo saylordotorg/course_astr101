@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "ASTR101 - Introduction to Astronomy"
-course: ASTR101
-course_fulltitle: "Introduction to Astronomy"
+title: "ASTR101: Introduction to Astronomy"
 course_description: "An introductory look at our understanding of the universe and how this understanding has changed from Ancient Greece through today."
+next: ../Unit13
+previous: ../Unit11
 ---
 **Unit 12: The Formation of the Earth** <span id="12"></span> 
 *In this unit you will be introduced to our current model for the

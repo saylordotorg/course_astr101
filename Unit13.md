@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "ASTR101 - Introduction to Astronomy"
-course: ASTR101
-course_fulltitle: "Introduction to Astronomy"
+title: "ASTR101: Introduction to Astronomy"
 course_description: "An introductory look at our understanding of the universe and how this understanding has changed from Ancient Greece through today."
+next: ../Unit14
+previous: ../Unit12
 ---
 **Unit 13: Biological Evolution** <span id="13"></span> 
 *In this unit, you will be introduced to the concept that species arise

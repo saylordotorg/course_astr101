@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "ASTR101 - Introduction to Astronomy"
-course: ASTR101
-course_fulltitle: "Introduction to Astronomy"
+title: "ASTR101: Introduction to Astronomy"
 course_description: "An introductory look at our understanding of the universe and how this understanding has changed from Ancient Greece through today."
+next: ../../../
+previous: ../Unit14
 ---
 **Unit 15: Final Exam** <span id="15"></span> 
 -   **Final Exam: The Saylor Foundation’s “ASTR101 Final Exam”**

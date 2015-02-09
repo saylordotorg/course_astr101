@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "ASTR101 - Introduction to Astronomy"
-course: ASTR101
-course_fulltitle: "Introduction to Astronomy"
+title: "ASTR101: Introduction to Astronomy"
 course_description: "An introductory look at our understanding of the universe and how this understanding has changed from Ancient Greece through today."
+next: ../Unit03
+previous: ../Unit01
 ---
 **Unit 2: The Celestial Sphere** <span id="2"></span> 
 *In this unit, you will be introduced to the celestial sphere, the
