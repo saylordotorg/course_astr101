@@ -145,3 +145,4 @@ maximum of 14 hours to a minimum of 4 hours.
 - [Unit 13](https://legacy.saylor.org/astr101/Unit13/)
 - [Unit 14](https://legacy.saylor.org/astr101/Unit14/)
 - [Unit 15](https://legacy.saylor.org/astr101/Unit15/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/ELECTIVES/ASTR101/ASTR101-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/ELECTIVES/ASTR101/ASTR101-FinalExam-Answers.html)
