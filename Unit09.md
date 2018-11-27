@@ -38,7 +38,7 @@ Upon successful completion of this unit, students will be able to:
 **9.1 Dark Energy** <span id="9.1"></span> 
 -   **Reading: The Saylor Foundation’s “Unit 9: Modern Cosmology”**
     Link: The Saylor Foundation’s [“Unit 9: Modern
-    Cosmology”](http://www.saylor.org/site/wp-content/uploads/2012/10/ASTR101-Unit-9-Reading.pdf) (PDF)  
+    Cosmology”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/ASTR101-Unit-9-Reading.pdf) (PDF)  
       
      Instructions: This article covers our very latest information on
     the properties of the universe.  It is much more in depth than the
@@ -198,13 +198,13 @@ Upon successful completion of this unit, students will be able to:
 
 -   **Assessment: The Saylor Foundation’s “Unit 9 Assessment”**
     Link: The Saylor Foundation’s [“Unit 9
-    Assessment”](http://www.saylor.org/site/wp-content/uploads/2012/10/ASTR101-Unit-9-Assessment.FINAL_.pdf) (PDF)  
+    Assessment”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/ASTR101-Unit-9-Assessment.FINAL_.pdf) (PDF)  
       
      Instructions: When you have finished the entire unit, please
     complete this assessment without referring to the readings.  When
     you are finished with the assessment, you can check your answers
     against the Saylor Foundation’s [“Unit 9 Assessment – Answer
-    Key”](http://www.saylor.org/site/wp-content/uploads/2012/10/ASTR101-Unit-9-Answer-Key.FINAL_.pdf) (PDF).  
+    Key”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/ASTR101-Unit-9-Answer-Key.FINAL_.pdf) (PDF).  
       
      Completing this assessment should take approximately 2 hours.
 
