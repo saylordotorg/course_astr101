@@ -41,7 +41,7 @@ Upon successful completion of this unit, the student will be able to:
 **5.1 Atoms** <span id="5.1"></span> 
 -   **Reading: The Saylor Foundation’s “Unit 5: Matter and Light”**
     Link: The Saylor Foundation’s [“Unit 5: Matter and
-    Light”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/ASTR101-Unit-5-Reading.pdf)
+    Light”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/ASTR101-Unit-5-Reading.pdf)
     (PDF)  
       
      Instructions: This reading provides an overview of the material we
@@ -355,13 +355,13 @@ id="5.6"></span> 
 
 -   **Reading: The Saylor Foundation’s “Unit 5 Assessment”**
     Link: The Saylor Foundation’s [“Unit 5
-    Assessment”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/ASTR101-Unit-5-Assessment.FINAL_.pdf) (PDF)  
+    Assessment”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/ASTR101-Unit-5-Assessment.FINAL_.pdf) (PDF)  
       
      Instructions: When you have finished the entire unit, please
     complete this assessment without referring to the readings.  When
     you are finished with the assessment, you can check your answers
     against the Saylor Foundation’s [“Unit 5 Assessment – Answer
-    Key”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/ASTR101-Unit-5-Answer-Key.FINAL_.pdf) (PDF).  
+    Key”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/ASTR101-Unit-5-Answer-Key.FINAL_.pdf) (PDF).  
       
      Completing this assessment should take approximately 2 hours.
 

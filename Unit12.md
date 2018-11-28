@@ -33,7 +33,7 @@ Upon successful completion of this unit, students will be able to:
 -   **Reading: The Saylor Foundation’s “Unit 12: The Formation of the
     Earth”**
     Link: The Saylor Foundation’s [“Unit 12: The Formation of the
-    Earth”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/ASTR101-Unit-12-Reading.pdf)
+    Earth”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/ASTR101-Unit-12-Reading.pdf)
     (PDF)  
       
      Instructions: This article provides an overview of the material we
@@ -265,13 +265,13 @@ id="12.3.3"></span> 
 
 -   **Assessment: The Saylor Foundation’s “Unit 12 Assessment”**
     Link: The Saylor Foundation’s [“Unit 12
-    Assessment”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/ASTR101-Unit-12-Assessment.FINAL_.pdf) (PDF)  
+    Assessment”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/ASTR101-Unit-12-Assessment.FINAL_.pdf) (PDF)  
       
      Instructions: When you have finished the entire unit, please
     complete this assessment without referring to the readings.  When
     you are finished with the assessment, you can check your answers
     against the Saylor Foundation’s [“Unit 12 Assessment – Answer
-    Key”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/ASTR101-Unit-12-Answer-Key.FINAL_.pdf) (PDF).  
+    Key”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/ASTR101-Unit-12-Answer-Key.FINAL_.pdf) (PDF).  
       
      Completing this assessment should take approximately 2 hours.
 
